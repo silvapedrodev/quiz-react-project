@@ -1,4 +1,21 @@
+# Quiz React 🤔💡
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+
+
+<h3 align="center">Status: 🚀 Finished</h3>
+
+<p  align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+## 🖼️ Preview
+
+<img src="./public/assets/screenshot.webp">
+
 
 ## Getting Started
 
